@@ -14,7 +14,7 @@ Create 3 house types in House, Villa, Summer type. Create at least 3 House, Vill
     Method of returning the average square meter of villas
     Method of returning the average square meter of cottages
     Method of returning the average square meter of houses of all types
-    Filter and returning all types of houses according to the number of rooms and lounges
+    Filter and return all types of houses according to the number of rooms and lounges
     Within the Main method, print all methods to the console in a meaningful way.
 
 
