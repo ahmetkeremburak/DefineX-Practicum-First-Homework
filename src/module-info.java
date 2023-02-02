@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Kerem
- *
- */
-module houseTypes {
-}
